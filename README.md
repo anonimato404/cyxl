@@ -5,5 +5,5 @@
 - 🌱 I’m currently learning java
 - 👯 I’m looking to collaborate with anyone (:
 
-- ⚡ Fun fact: I like to play football
+- ⚡ Fun fact: I like to code Minecraft Mods
 
