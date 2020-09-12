@@ -7,4 +7,4 @@
 
 - ⚡ Fun fact: I like to code Minecraft Mods
 
-<p> <img src="https://komarev.com/ghpvc/?username=trvsf&color=8E64D0" alt="cyxl" /> </p>
+<p> <img src="https://komarev.com/ghpvc/?username=cyxlf&color=8E64D0" alt="cyxl" /> </p>
