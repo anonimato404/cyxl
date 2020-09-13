@@ -7,6 +7,17 @@
 
 ## Things I'm making
 
-- Simple soduku solver that reads a file with the soduku puzzle in it [py]
+- Just contibuting
+
+#### 📫 How to reach me
+Feel free to add me on discord (LlamaLad7#7444), or if you have a question/problem directly relating to one of my projects, you can open an issue.
+
+#### 📈 Stats
+
+**NOTE:** Some stats may be incorrect as contributions to organizations
+are not counted.
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LlamaLad7&count_private=true&theme=tokyonight&show_icons=true)
+
 
 <p> <img src="https://komarev.com/ghpvc/?username=cyxlf&color=8E64D0" alt="cyxl" /> </p>
