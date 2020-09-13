@@ -17,7 +17,7 @@ Feel free to add me on discord (LlamaLad7#7444), or if you have a question/probl
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=LlamaLad7&count_private=true&theme=tokyonight&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyxl&count_private=true&theme=tokyonight&show_icons=true)
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=cyxlf&color=8E64D0" alt="cyxl" /> </p>
