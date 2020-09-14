@@ -10,7 +10,7 @@
 - Just contibuting
 
 #### 📫 How to reach me
-Feel free to add me on discord (LlamaLad7#7444), or if you have a question/problem directly relating to one of my projects, you can open an issue.
+Feel free to add me on discord (cyxl#9986), or if you have a question/problem directly relating to one of my projects, you can open an issue.
 
 #### 📈 Stats
 
