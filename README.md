@@ -38,7 +38,8 @@ I'm a 13 year old from the US
   * Browser: Chrome
   
  </details>
-#### 📈 Stats
+ 
+### 📈 Stats
 
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
