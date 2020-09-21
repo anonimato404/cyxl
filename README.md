@@ -37,6 +37,7 @@ I'm a 13 year old from the US
   * OS: Windows/Ubuntu
   * Browser: Chrome
   
+ </details>
 #### 📈 Stats
 
 **NOTE:** Some stats may be incorrect as contributions to organizations
