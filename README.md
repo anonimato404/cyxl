@@ -1,17 +1,42 @@
-### Hi there, cyxl 👋
+### Hello. My name is cyxl 👋
+I'm a 13 year old from the US
+<br/><br/>
+<!--suppress HtmlDeprecatedAttribute -->
+<details>
+  <summary>Quick Facts</summary><br/>
+  
+  * Gender / Sexuality: Straight Male
+  * Pronunciations: He, Him
+  * Birthday: 2007-05-16
+  * I've been diagnosed with Dyslexia, and ADHD
 
-## I'm a Student, and a Learning Developer
-- 🔭 I’m currently working on learning java
-- 🌱 I’m currently learning java
-- 👯 I’m looking to collaborate with anyone (:
+</details>
 
-## Things I'm making
+<details>
+  <summary>Current Projects</summary><br/>
+  
+  * A sudoku solver in python that reads a .txt file
+  * [Contributing to the Meteor client](https://github.com/MineGame159/meteor-client)
+  * [Contributing to the Epearl client](https://github.com/22s/bleachhack-1.16-epearl-edition)
+  
+</details>
 
-- Just contibuting
+<details>
+  <summary>Programming</summary>
+  
+  * I mainly use Java and Python.
+  * I am learning more and more Java.
+ 
+ </details>
 
-#### 📫 How to reach me
-Feel free to add me on discord (cyxl#9986), or if you have a question/problem directly relating to one of my projects, you can open an issue.
-
+<details>
+  <summary>Software</summary><br/>
+  
+  * IDE: IntelliJ IDEA
+  * Text Editor: Notepad++
+  * OS: Windows/Ubuntu
+  * Browser: Chrome
+  
 #### 📈 Stats
 
 **NOTE:** Some stats may be incorrect as contributions to organizations
