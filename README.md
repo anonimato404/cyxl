@@ -42,9 +42,10 @@ I'm a 13 year old from the US
  </details>
 
 <details>
-  <summary>Superlatives</summary><br/>
+  <summary>Favorites</summary><br/>
   
   * Favorite:
+    * Show: HunterXHunter
     * Music:
       * Favorite bands: Panic at The Disco!
     * Food:
