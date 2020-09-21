@@ -39,6 +39,37 @@ I'm a 13 year old from the US
   
  </details>
  
+ </details>
+
+<details>
+  <summary>Superlatives</summary><br/>
+  
+  * Favorite:
+    * Music:
+      * Favorite bands: Panic at The Disco!
+    * Food:
+      * Like: Mexican, Amarican, Spicy food
+      * Dislike: Pears
+    * License: MIT
+    * Color: Any
+    * Shape: Square
+    * Search Engine: Chrome
+    * Port: 80
+    * Letter: b
+    * Time of day: 4:00 PM
+  
+  *Contact me if you have more ideas!*
+    
+</details>
+
+<details>
+  <summary>Contact Me</summary><br/>
+ 
+  * Discord: @cyxl#9986
+  
+</details>
+
+ 
 ### 📈 Stats
 
 **NOTE:** Some stats may be incorrect as contributions to organizations
