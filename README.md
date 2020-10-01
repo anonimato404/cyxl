@@ -33,7 +33,7 @@ I'm a 13 year old from the US
   <summary>Software</summary><br/>
   
   * IDE: IntelliJ IDEA
-  * Text Editor: Notepad++
+  * Text Editor: Sublime Text
   * OS: Windows/Ubuntu
   * Browser: Chrome
   
