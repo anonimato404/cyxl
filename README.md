@@ -16,6 +16,7 @@ I'm a 13 year old from the US
   <summary>Current Projects</summary><br/>
   
   * A sudoku solver in python that reads a .txt file
+  * I private mod
   * [Contributing to the Meteor client](https://github.com/MineGame159/meteor-client)
   * [Contributing to the Epearl client](https://github.com/22s/bleachhack-1.16-epearl-edition)
   
