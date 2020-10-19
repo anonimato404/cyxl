@@ -15,18 +15,18 @@ I'm a 13 year old from the US
 <details>
   <summary>Current Projects</summary><br/>
   
-  * A sudoku solver in python that reads a .txt file
-  * I private mod
-  * [Contributing to the Meteor client](https://github.com/MineGame159/meteor-client)
-  * [Contributing to the Epearl client](https://github.com/22s/bleachhack-1.16-epearl-edition)
-  
+  * A traceback agerithem in python 
+  * A Minecraft mod called DiscordMove. The mod allows two people to play on one account through discord. For instance if you were to do /foward 5 the the person who has the mod installed would move foward 5 in game.
+  * The discord bot for the mod above ^^^
+
 </details>
 
 <details>
   <summary>Programming</summary>
   
   * I mainly use Java and Python.
-  * I am learning more and more Java.
+  * I am learning more Java as I go on.
+  
  
  </details>
 
