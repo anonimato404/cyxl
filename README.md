@@ -68,7 +68,8 @@ I'm a 13 year old from the US
   <summary>Contact Me</summary><br/>
  
   * Discord: @cyxl#9986
-  
+  * Email: cyxlpublic@gmail.com
+
 </details>
 <details>
   <summary>License</summary><br/>
