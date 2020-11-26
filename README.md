@@ -1,5 +1,5 @@
 ### Hello. My name is cyxl 👋
-I'm a 13 year old from the US
+I'm from the US
 <br/><br/>
 <!--suppress HtmlDeprecatedAttribute -->
 <details>
