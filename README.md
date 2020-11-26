@@ -7,8 +7,6 @@ I'm from the US
   
   * Gender / Sexuality: Straight Male
   * Pronunciations: He, Him
-  * Birthday: 2007-05-16
-  * I've been diagnosed with Dyslexia, and ADHD
 
 </details>
 
