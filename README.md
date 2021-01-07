@@ -10,72 +10,28 @@ I'm from the US
 
 </details>
 
-<details>
-  <summary>Current Projects</summary><br/>
-  
-  * A traceback agerithem in python 
-  * A Minecraft mod called DiscordMove. The mod allows two people to play on one account through discord. For instance if you were to do /foward 5 the the person who has the mod installed would move foward 5 in game.
-  * The discord bot for the mod above ^^^
-
-</details>
-
-<details>
-  <summary>Programming</summary>
-  
-  * I mainly use Java and Python.
-  * I am learning more Java as I go on.
-  
- 
- </details>
 
 <details>
   <summary>Software</summary><br/>
   
-  * IDE: IntelliJ IDEA
-  * Text Editor: Sublime Text
-  * OS: Windows/Ubuntu
-  * Browser: Chrome
+  * IDE: IntelliJ IDEA, Pycharm, and Visual Studio 
+  * Text Editor: Visual Studio Code 
+  * OS: Windows/Kali
+  * Browser: Brave 
   
  </details>
  
  </details>
 
-<details>
-  <summary>Favorites</summary><br/>
-  
-  * Favorite:
-    * Show: HunterXHunter
-    * Music:
-      * Favorite bands: Panic at The Disco!
-    * Food:
-      * Like: Mexican, Amarican, Spicy food
-      * Dislike: Pears
-    * License: MIT
-    * Color: Any
-    * Shape: Square
-    * Search Engine: Chrome
-    * Port: 80
-    * Letter: b
-    * Time of day: 4:00 PM
-  
-  *Contact me if you have more ideas!*
-    
-</details>
 
 <details>
   <summary>Contact Me</summary><br/>
  
-  * Discord: @cyxl#9986
+  * Discord: @cyxl#0001
   * Email: cyxlpublic@gmail.com
 
 </details>
-<details>
-  <summary>License</summary><br/>
- 
-  All of my work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/.
- 
-</details>
+
 
  
 ### 📈 Stats
