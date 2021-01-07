@@ -1,5 +1,5 @@
 ### Hello. My name is cyxl 👋
-I'm from the US
+I'm from the US and I am a 13 year old developer
 <br/><br/>
 <!--suppress HtmlDeprecatedAttribute -->
 <details>
