@@ -15,8 +15,9 @@ I'm from the US and I am a 13 year old developer
   <summary>Software</summary><br/>
   
   * IDE: IntelliJ IDEA, Pycharm, and Visual Studio 
-  * Text Editor: Visual Studio Code 
-  * OS: Windows/Kali
+  * Text Editor: Sublime text 3 
+  * Host OS: Windows
+  * VM: Ubuntu 20.04 (highly recommend)
   * Browser: Brave 
   
  </details>
