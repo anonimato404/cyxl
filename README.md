@@ -40,8 +40,6 @@ I'm from the US and I am a 13 year old developer
 **NOTE:** Some stats may be incorrect as contributions to organizations
 are not counted.
 
-![cyxl's Trophies](https://github-profile-trophy.vercel.app/?username=cyxl&theme=onedark&row=2&column=3)
-
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=cyxl&count_private=true&theme=tokyonight&show_icons=true)
 
 
