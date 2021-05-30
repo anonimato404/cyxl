@@ -30,7 +30,7 @@ I'm from the US and I am a 14 year old developer
  
   * Discord: @cyxl#
   * Email: cyxlpublic@gmail.com
-  * Website: https://cyxl.org
+  * Website: 
 
 </details>
 
