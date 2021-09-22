@@ -45,3 +45,5 @@ are not counted.
 
 
 <p> <img src="https://komarev.com/ghpvc/?username=cyxlf&color=8E64D0" alt="cyxl" /> </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cyxl)](https://github.com/anuraghazra/github-readme-stats)
+
