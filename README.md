@@ -28,7 +28,7 @@ I'm from the US and I am a 14 year old developer
 <details>
   <summary>Contact Me</summary><br/>
  
-  * Discord: @cyxl#0001
+  * Discord: @cyxl#9697
   * Email: cyxlpublic@gmail.com
   * Website: 
 
